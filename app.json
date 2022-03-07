@@ -1,10 +1,14 @@
-{
+{"name": "AD3NO USEGE",
+  "description": "purana userbot",
+  "logo": "https://telegra.ph/file/d170485c79b1b234a0ea0.jpg",
+  "keywords": ["telegram-ubot"],
+  "repository": "https://github.com/coderparv/usergerad3no",
     "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org"},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org"},
-        "DATABASE_URL": {"description": "Mongodb url from https://cloud.mongodb.com/"},
+        "API_ID": {"description": "pta hai to dal ni pta to gand mrao"},
+        "API_HASH": {"description": "pta hai to dal ni pta to gand mrao"},
+        "DATABASE_URL": {"description": "Mongo bnate ni ate to parv se lele free m"},
         "LOG_CHANNEL_ID": {"description": "Telegram Log Channel ID"},
-        "PREF_BRANCH": {"value": "master", "description": "Branch of userge repo [master, beta, alpha], Keep it default."},
+        "PREF_BRANCH": {"value": "master", "description": "Branch of userge repo [master,chutiya, beta, alpha], Keep it default."},
         "SESSION_STRING": {
             "description": "[USER MODE] - Get this using `bash genStr`",
             "required": false},
